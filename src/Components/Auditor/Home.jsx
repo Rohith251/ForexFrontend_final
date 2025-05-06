@@ -63,8 +63,7 @@ const AuditorHomePage = () => {
               <div className="col-md-4 mb-3">
                 <h5>Contact Us</h5>
                 <p>
-                  Sundaram Finance Limited, Regd. Office: 21, Patullos Road, Chennai - 600002.
-                  Deposits Toll-Free no: 1800 572 1840
+                  Hello Road, Chennai, Tamilnadu
                 </p>
                 <div>
                   <a href="#" className="text-white me-2"><i className="bi bi-facebook"></i></a>
