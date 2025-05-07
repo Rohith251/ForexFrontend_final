@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: 'http://15.152.227.11:8082/', // your backend URL
+  baseURL: 'http://15.168.134.45:8082/', // your backend URL
 });
 
 // Automatically attach JWT token to every request if available
